@@ -1,0 +1,4 @@
+git add leigo444.js
+gitcommit-m start
+gitbranch-m leigo444
+git remote add origin
