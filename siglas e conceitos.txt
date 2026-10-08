@@ -1,0 +1,9 @@
+Conmit= estado atual de um projeto
+
+VCS= controle de versão de algum projeto
+
+Https= protocolo que transmite links e é criptografado
+
+Html= Linguagem de marcação
+
+CSS= Linguagem de estilização
