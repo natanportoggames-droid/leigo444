@@ -7,3 +7,13 @@ Https= protocolo que transmite links e é criptografado
 Html= Linguagem de marcação
 
 CSS= Linguagem de estilização
+
+DNS= Domain Name System
+
+URL= Uniform Resource Locator
+
+TCP= Transfer Control Protorcol
+
+IP= Internetetworking Protorcol
+
+TLD= Top Level Domain
