@@ -1,0 +1,20 @@
+I want a domain for my friend view my link and site, for that there is a domain and hospedation:
+
+Hospedation: A space for save your documents
+
+Domain: That will do for our friends view your link
+
+
+Example:
+
+www.github.com/gustavoguanabara
+
+WWW is the sub-domain
+
+GitHub is the domain
+
+.com is the TLD
+
+gustavoguanabara is the URL
+
+/Gustavoguanabara is the street
